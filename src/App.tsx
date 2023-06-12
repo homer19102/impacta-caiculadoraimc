@@ -24,7 +24,7 @@ function App() {
       ...(prevState || {}),
       resultado: resultado.toFixed(2)
     }))
-    console.log('calcula', resultado);
+ 
   }
 
 
